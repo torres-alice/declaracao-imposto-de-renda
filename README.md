@@ -14,8 +14,7 @@ A ferramenta foi criada pensando em facilitar o processo de organização e cons
 
 - ✅ **Validações de dados** para evitar erros de preenchimento  
 - 📁 **Estrutura organizada** por categorias (dados do titular,rendimentos, notas bancárias.)  
-- 🔗 **Navegação facilitada** por meio de botões e hiperlinks internos  
-- 🧮 **Funções interativas** que automatizam cálculos e resumos  
+- 🔗 **Navegação facilitada** por meio de botões e hiperlinks internos    
 - 📅 **Planejamento anual** com visão geral por mês e tipo de dado  
 
 ##  Objetivos
