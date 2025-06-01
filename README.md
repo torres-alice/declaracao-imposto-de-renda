@@ -67,6 +67,7 @@ Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 ## 🙏 Agradecimentos
 
-A todos que utilizam, testam e compartilham feedbacks sobre esta ferramenta — muito obrigado!
+A todos que utilizam, testam e compartilham feedbacks sobre esta ferramenta e especialmente a
+@Dio.me, @Felipão e @Santander — muito obrigado!
 
 
